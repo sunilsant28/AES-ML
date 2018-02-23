@@ -6,19 +6,19 @@ The code is written in the python and consist of below
 
 1. feature_essay.py file  - “Run this file to extract the features - `python feature_essay.py`”
 
-  1. This file reads the data source provided
+  * This file reads the data source provided
 
-  2. Data cleansing and transformation
+  * Data cleansing and transformation
 
-  3. Feature calculation
+  * Feature calculation
 
 2. Model.ipynb – Jupyter Notebook file to see outputs. Please find Model.html too.
 
-  1. This file generates the model and applies the Random Forest algorithm
+  * This file generates the model and applies the Random Forest algorithm
 
-  2. Checks for the Single Kappa evaluation for features and generates the graph.
+  * Checks for the Single Kappa evaluation for features and generates the graph.
 
-  3. Checks for the forward feature list 
+  * Checks for the forward feature list 
 
 3. Metrics.py
 
