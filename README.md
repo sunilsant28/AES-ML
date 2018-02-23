@@ -24,7 +24,7 @@ The code is written in the python and consist of below
 
   This is metrics file available from internet source for kappa calculation on actual and prediction scores.
 
-Libraries used: 
+Libraries used: Python Version 2.7
 1. Scikit-learn: 0.19.1     		
 2. Numpy: 1.13.3
 3. Pandas: 0.21.0			
