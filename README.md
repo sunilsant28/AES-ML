@@ -25,9 +25,10 @@ The code is written in the python and consist of below
   This is metrics file available from internet source for kappa calculation on actual and prediction scores.
 
 Libraries used: Python Version 2.7
-1. Scikit-learn: 0.19.1     		
-2. Numpy: 1.13.3
-3. Pandas: 0.21.0			
-4. MatPlotlib: 1.3.1
-5. Pychant: 1.6.6		
+1. Scikit-learn: 0.19.1 
+2. NLTK: 3.2.5
+3. Numpy: 1.13.3
+4. Pandas: 0.21.0			
+5. MatPlotlib: 1.3.1
+6. Pychant: 1.6.6		
 
